@@ -1,0 +1,9 @@
+.aside-left {
+  width: 300px;
+  height: 100vh;
+  background-color: aquamarine;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-right: 1px solid none;
+}
